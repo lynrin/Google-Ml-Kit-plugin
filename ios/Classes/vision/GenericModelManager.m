@@ -1,3 +1,4 @@
+/*
 #import "GenericModelManager.h"
 
 @implementation GenericModelManager {
@@ -48,3 +49,4 @@
 }
 
 @end
+*/

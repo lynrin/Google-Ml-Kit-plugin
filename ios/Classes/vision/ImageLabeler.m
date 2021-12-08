@@ -1,3 +1,4 @@
+/*
 #import "GoogleMlKitPlugin.h"
 #import <MLKitCommon/MLKitCommon.h>
 #import <MLKitImageLabeling/MLKitImageLabeling.h>
@@ -110,3 +111,4 @@
 }
 
 @end
+*/

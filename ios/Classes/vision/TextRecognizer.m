@@ -1,4 +1,4 @@
-
+/*
 #import "GoogleMlKitPlugin.h"
 #import <MLKitTextRecognition/MLKitTextRecognition.h>
 
@@ -115,3 +115,4 @@
 }
 
 @end
+*/

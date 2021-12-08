@@ -1,3 +1,4 @@
+/*
 #import "GoogleMlKitPlugin.h"
 #import <MLKitBarcodeScanning/MLKitBarcodeScanning.h>
 
@@ -232,3 +233,4 @@
 }
 
 @end
+*/

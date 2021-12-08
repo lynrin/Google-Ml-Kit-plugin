@@ -1,4 +1,4 @@
-
+/*
 #import "GoogleMlKitPlugin.h"
 #import <MLKitLanguageID/MLKitLanguageID.h>
 #import <Flutter/Flutter.h>
@@ -158,4 +158,4 @@
 }
 
 @end
-
+*/
